@@ -49,9 +49,9 @@ Técnicas Empleadas:
 Nuestro modelo conjunto alcanzó una precisión del 70%, indicando una capacidad robusta para predecir correctamente los resultados de los partidos de la NBA en el 70% de los casos.
 
 ### Información desde Power BI
-Mejores Precisones: Identificados jugadores cuya presencia correlaciona positivamente con puntuaciones más altas del equipo.
-Peores Precisones: Analizados equipos y jugadores que contribuyen de manera menos predecible a los resultados de los juegos.
-Análisis de Impacto Ofensivo y del Jugador: Explorado la interacción entre las estrategias de equipo y las actuaciones individuales de los jugadores.
+- Mejores Precisones: Identificados jugadores cuya presencia correlaciona positivamente con puntuaciones más altas del equipo.
+- Peores Precisones: Analizados equipos y jugadores que contribuyen de manera menos predecible a los resultados de los juegos.
+- Análisis de Impacto Ofensivo y del Jugador: Explorado la interacción entre las estrategias de equipo y las actuaciones individuales de los jugadores.
 
 ### Conclusión
 Aunque predecir los resultados de los partidos de la NBA sigue siendo un desafío debido a su naturaleza impredecible, nuestro modelo demuestra un poder predictivo sustancial. Las expansiones futuras podrían incluir predicciones más detalladas como totales de puntos y eficiencias de tiro. El modelo actual establece una base sólida para una exploración y refinamiento adicionales.
