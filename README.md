@@ -38,12 +38,12 @@ Plus-Minus: Mide la diferencia de puntos cuando un jugador está en la cancha.
 Se realizaron análisis de correlación, evaluaciones de variables y análisis de componentes principales (PCA) para identificar y agrupar dimensiones clave de los datos.
 
 ### Construcción del Modelo
-Técnicas Empleadas
-Regresión Logística
-Bayes Gaussiano
-Bosque Aleatorio
-Redes Neuronales
-Boosting (con un modelo de votación final combinando los resultados de boosting y redes neuronales)
+Técnicas Empleadas:
+- Regresión Logística.
+- Bayes Gaussiano.
+- Bosque Aleatorio.
+- Redes Neuronales.
+- Boosting (con un modelo de votación final combinando los resultados de boosting y redes neuronales).
 
 ### Rendimiento
 Nuestro modelo conjunto alcanzó una precisión del 70%, indicando una capacidad robusta para predecir correctamente los resultados de los partidos de la NBA en el 70% de los casos.
