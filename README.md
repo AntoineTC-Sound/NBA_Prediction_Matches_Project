@@ -5,8 +5,7 @@ La motivación principal detrás de este proyecto es el desafío de predecir res
 
 ### Fuente de Datos
 Obtenemos nuestros datos de:
-
-Basketball Reference: Métricas clave y avanzadas
+Basketball Reference: Métricas clave y avanzadas.
 Stathead Basketball: Estadísticas avanzadas adicionales.
 
 ### Manejo de Datos
@@ -15,11 +14,15 @@ Gestión de la Base de Datos: Se utiliza MySQL para manejar conexiones e interac
 
 ### Detalles de los Datos
 Datos Brutos: Se recopilaron estadísticas de todos los juegos desde la temporada 2019 en adelante, enfocándonos en los dos jugadores principales por minutos jugados de cada equipo y las estadísticas generales del equipo.
+
 Datos Filtrados: Optamos por excluir la temporada 2019/2020 debido a irregularidades causadas por COVID-19, centrando nuestro análisis desde la temporada 2020/2021 hasta la 2022/2023.
 Preparación y Tratamiento Inicial de los Datos
-Fusión de Datos
+
+### Fusión de Datos
 ID de Juego: Creado para vincular los conjuntos de datos de jugadores y equipos.
+
 Enriquecimiento de Datos: Incluido un historial de rachas ganadoras para mejorar nuestro conjunto de datos.
+
 Funciones Temporales: Utilizadas para gestionar y ajustar las líneas de tiempo de los datos y crear estadísticas acumulativas sobre los últimos cinco juegos sin que los resultados sean influenciados por los resultados inmediatos anteriores.
 
 ### Preprocesamiento
