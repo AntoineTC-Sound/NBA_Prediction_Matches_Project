@@ -1,4 +1,4 @@
-# NBA_Prediction_Matches_Project
+# NBA Game Prediction Project
 ## Visión General del Proyecto
 ### Motivación
 La motivación principal detrás de este proyecto es el desafío de predecir resultados en deportes, particularmente en partidos de la NBA, que son altamente impredecibles y volátiles. Con una pasión personal por la NBA y una gran cantidad de datos estadísticos disponibles, este proyecto tiene como objetivo aprovechar modelos estadísticos avanzados para predecir los resultados de los juegos y potencialmente extender las capacidades del modelo para predicciones durante los juegos.
